@@ -3,12 +3,12 @@
           <a class="nav-link" href="/">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="about">About Us</a>
+          <a class="nav-link" href="/about">About Us</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="contact">Contact Us</a>
+          <a class="nav-link" href="/contact">Contact Us</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="customer">Customer Lists</a>
+          <a class="nav-link" href="/customer">Customer Lists</a>
         </li>
       </ul>
