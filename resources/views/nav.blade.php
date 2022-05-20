@@ -11,7 +11,4 @@
         <li class="nav-item">
           <a class="nav-link" href="customer">Customer Lists</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="customer">{{$username}}</a>
-        </li>
       </ul>
